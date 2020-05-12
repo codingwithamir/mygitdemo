@@ -2,6 +2,7 @@ Use this command to change the permissions of any folder
 
 chown amir:amir ./ -R folder name
 
+first git update
 
 
 
